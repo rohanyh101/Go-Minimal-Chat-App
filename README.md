@@ -82,7 +82,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is licensed under the MIT License. Please take a look at the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please take a look at the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgments
 
